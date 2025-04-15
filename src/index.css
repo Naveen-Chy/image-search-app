@@ -11,3 +11,21 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+body{background-color: #fffbf7 !important;}
+.g-2.wid-800.row {
+  margin: 0px auto;    width: 800px;
+}
+  input.form-control {
+    height: 50px;
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 0px 0px 1px, rgb(209, 213, 219) 0px 0px 0px 1px inset;
+}
+.custom-search-btn {
+  height: 48px; 
+  font-weight: 600;
+}
+.search-input {
+  height: 48px;
+}
+.custom-search-btn:hover {
+  opacity: 0.9;
+}
