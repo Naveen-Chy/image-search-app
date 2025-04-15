@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/image-search-app/static/css/main.d5fd057b.chunk.css",
+    "main.js": "/image-search-app/static/js/main.9c1ec942.chunk.js",
+    "main.js.map": "/image-search-app/static/js/main.9c1ec942.chunk.js.map",
+    "runtime~main.js": "/image-search-app/static/js/runtime~main.ade65b76.js",
+    "runtime~main.js.map": "/image-search-app/static/js/runtime~main.ade65b76.js.map",
+    "static/css/2.b0aab389.chunk.css": "/image-search-app/static/css/2.b0aab389.chunk.css",
+    "static/js/2.c219f83d.chunk.js": "/image-search-app/static/js/2.c219f83d.chunk.js",
+    "static/js/2.c219f83d.chunk.js.map": "/image-search-app/static/js/2.c219f83d.chunk.js.map",
+    "static/js/3.44ff5753.chunk.js": "/image-search-app/static/js/3.44ff5753.chunk.js",
+    "static/js/3.44ff5753.chunk.js.map": "/image-search-app/static/js/3.44ff5753.chunk.js.map",
+    "index.html": "/image-search-app/index.html",
+    "precache-manifest.d0668e36c1c4b9a863ed075b25f08fc9.js": "/image-search-app/precache-manifest.d0668e36c1c4b9a863ed075b25f08fc9.js",
+    "service-worker.js": "/image-search-app/service-worker.js",
+    "static/css/2.b0aab389.chunk.css.map": "/image-search-app/static/css/2.b0aab389.chunk.css.map",
+    "static/css/main.d5fd057b.chunk.css.map": "/image-search-app/static/css/main.d5fd057b.chunk.css.map"
+  }
+}
