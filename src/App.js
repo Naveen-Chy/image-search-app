@@ -5,7 +5,7 @@ import EditorPage from './components/EditorPage';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/image-search-app">
       <Routes>
         <Route path="/" element={<SearchPage />} />
         <Route path="/editor" element={<EditorPage />} />
